@@ -1,0 +1,15 @@
+C:\itogi_bloka\task\bin\Debug\net6.0\task.exe
+C:\itogi_bloka\task\bin\Debug\net6.0\task.deps.json
+C:\itogi_bloka\task\bin\Debug\net6.0\task.runtimeconfig.json
+C:\itogi_bloka\task\bin\Debug\net6.0\task.dll
+C:\itogi_bloka\task\bin\Debug\net6.0\task.pdb
+C:\itogi_bloka\task\obj\Debug\net6.0\task.csproj.AssemblyReference.cache
+C:\itogi_bloka\task\obj\Debug\net6.0\task.GeneratedMSBuildEditorConfig.editorconfig
+C:\itogi_bloka\task\obj\Debug\net6.0\task.AssemblyInfoInputs.cache
+C:\itogi_bloka\task\obj\Debug\net6.0\task.AssemblyInfo.cs
+C:\itogi_bloka\task\obj\Debug\net6.0\task.csproj.CoreCompileInputs.cache
+C:\itogi_bloka\task\obj\Debug\net6.0\task.dll
+C:\itogi_bloka\task\obj\Debug\net6.0\refint\task.dll
+C:\itogi_bloka\task\obj\Debug\net6.0\task.pdb
+C:\itogi_bloka\task\obj\Debug\net6.0\task.genruntimeconfig.cache
+C:\itogi_bloka\task\obj\Debug\net6.0\ref\task.dll
